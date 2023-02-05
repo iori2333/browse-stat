@@ -1,0 +1,1 @@
+export { updateLink } from './operations';
